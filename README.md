@@ -2,7 +2,7 @@
 This is a edit of https://booth.pm/en/items/3474757
 
 Simple prefab to simplify the process of attaching SPS orifices and rings to VRChat avatar 3.0.
-compatible by default with **OSCGoesBrr**
+Compatible by default with **OSCGoesBrr**
 Made for use with Super Plug Shader https://vrcfury.com/sps/
 
 Using only 1 orifice and 1 ring with parent constraints you can cover a wide range of possible penetration points.
