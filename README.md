@@ -8,7 +8,7 @@ Made for use with Super Plug Shader https://vrcfury.com/sps/<br>
 Using only 1 orifice and 1 ring with parent constraints you can cover a wide range of possible penetration points.<br>
 
       SPS Constraint Attachment
-======================================
+======================================<br>
 THIS PREFAB ASSUMES WriteDefaults Off<br>
 CHANGING TO WriteDefaults On IS SUPPORTED<br>
 
