@@ -1,16 +1,16 @@
 # SPSAttachment
 This is a edit of https://booth.pm/en/items/3474757
 
-Simple prefab to simplify the process of attaching SPS orifices and rings to VRChat avatar 3.0.
-Compatible by default with **OSCGoesBrr**
-Made for use with Super Plug Shader https://vrcfury.com/sps/
+Simple prefab to simplify the process of attaching SPS orifices and rings to VRChat avatar 3.0.<br>
+Compatible by default with **OSCGoesBrr**<br>
+Made for use with Super Plug Shader https://vrcfury.com/sps/<br>
 
-Using only 1 orifice and 1 ring with parent constraints you can cover a wide range of possible penetration points.
+Using only 1 orifice and 1 ring with parent constraints you can cover a wide range of possible penetration points.<br>
 
       SPS Constraint Attachment
 ======================================
-THIS PREFAB ASSUMES WriteDefaults Off
-CHANGING TO WriteDefaults On IS SUPPORTED
+THIS PREFAB ASSUMES WriteDefaults Off<br>
+CHANGING TO WriteDefaults On IS SUPPORTED<br>
 
 1. Import SPS into your project https://vrcfury.com/sps/
 2. Import SPSConstraintAttachment.unitypackage into your project
