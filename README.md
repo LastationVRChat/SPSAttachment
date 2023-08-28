@@ -1,7 +1,7 @@
 # SPSAttachment
-This is a edit of https://booth.pm/en/items/3474757
-
 Simple prefab to simplify the process of attaching SPS orifices and rings to VRChat avatar 3.0.<br>
+This is an edit of https://booth.pm/en/items/3474757
+
 Compatible by default with **OSCGoesBrr**<br>
 Made for use with Super Plug Shader https://vrcfury.com/sps/<br>
 
